@@ -1,0 +1,5 @@
+@import "~bootstrap/scss/functions";   //載入bootstrap的functions
+@import "./helpers/variables";         //自定義的變數
+@import "~bootstrap/scss/bootstrap";   
+
+@import "./dashboard.scss";
